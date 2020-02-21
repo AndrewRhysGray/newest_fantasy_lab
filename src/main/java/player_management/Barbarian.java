@@ -2,7 +2,15 @@ package player_management;
 
 public class Barbarian extends Player {
 
-    public Barbarian(String name, int healthPoints){
+    String weapon;
+
+    public Barbarian(String name, int healthPoints, String weapon){
         super(name, healthPoints);
+        this.weapon = weapon;
     }
+
+    public String getWeapon(){
+        return this.weapon;
+    }
+
 }

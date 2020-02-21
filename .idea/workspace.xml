@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cde62b4-d059-4518-b22f-c99f19309eaf" name="Default Changelist" comment="" />
+    <list default="true" id="6cde62b4-d059-4518-b22f-c99f19309eaf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/player_management/Barbarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/player_management/Barbarian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/player_management/Cleric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/player_management/Cleric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/player_management/Dwarf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/player_management/Dwarf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/player_management/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/player_management/Knight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/player_management/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/player_management/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/player_management/Warlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/player_management/Warlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/player_management/Wizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/player_management/Wizard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/weapon_management/Sword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/weapon_management/Sword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BarbarianTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BarbarianTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ClericTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ClericTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DwarfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DwarfTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/KnightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/KnightTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WarlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WarlockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WizardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WizardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/player_management/Barbarian.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/player_management/Barbarian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/player_management/Cleric.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/player_management/Cleric.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/player_management/Dwarf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/player_management/Dwarf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/player_management/Knight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/player_management/Knight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/player_management/Warlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/player_management/Warlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/player_management/Wizard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/player_management/Wizard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BarbarianTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BarbarianTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ClericTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ClericTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DwarfTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DwarfTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/KnightTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/KnightTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/WarlockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/WarlockTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/WizardTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/WizardTest.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +44,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,7 +56,12 @@
     </option>
   </component>
   <component name="ProjectId" id="1Y4MSRe5ouFxcc7yFmzU5FmX65D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RunDashboard">
@@ -39,11 +76,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="BarbarianTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PotionTest.hasName">
+    <configuration name="AxeTest.hasAttackDamage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="day_4" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BarbarianTest" />
+      <option name="MAIN_CLASS_NAME" value="AxeTest" />
+      <option name="METHOD_NAME" value="hasAttackDamage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClubTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day_4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClubTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreezeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day_4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FreezeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PotionTest.hasName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day_4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PotionTest" />
+      <option name="METHOD_NAME" value="hasName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day_4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SwordTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -51,7 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BarbarianTest" />
+        <item itemvalue="JUnit.PotionTest.hasName" />
+        <item itemvalue="JUnit.FreezeTest" />
+        <item itemvalue="JUnit.SwordTest" />
+        <item itemvalue="JUnit.ClubTest" />
+        <item itemvalue="JUnit.AxeTest.hasAttackDamage" />
       </list>
     </recent_temporary>
   </component>
@@ -68,15 +147,15 @@
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/BarbarianTest.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

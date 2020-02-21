@@ -1,12 +1,12 @@
-package weapon_management;
+package spell_management;
 
-public class Sword extends Weapon {
-    public Sword(String name, int attackDamage){
+public class Freeze extends Spell {
+    public Freeze(String name, int attackDamage){
         super(name, attackDamage);
     }
 
     public String getName(){
-    return this.name;
+        return this.name;
     }
 
     public int getAttackDamage(){

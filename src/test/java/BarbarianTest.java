@@ -10,7 +10,7 @@ public class BarbarianTest {
 
     @Before
     public void before() {
-       barbarian = new Barbarian("Steve", 20);
+       barbarian = new Barbarian("Steve", 20, "sword");
     }
 
     @Test
@@ -22,5 +22,8 @@ public class BarbarianTest {
     public void hasHealthPoints(){
         assertEquals(20, barbarian.getHealthPoints());
     }
+
+    @Test
+    public void hasWeapon(){ assertEquals("sword", barbarian.getWeapon());}
 
 }
